@@ -1,0 +1,216 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Beach Cleanup",
+      "date": "Aug 28 2018",
+      "time": "10:00",
+      "location": "Daytona Beach",
+      "description": "Let's clean up this beach.",
+      "organizer": "Adam Jahr",
+      "category": "sustainability",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "def456",
+          "name": "Gregg Pollack"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Park Cleanup",
+      "date": "Nov 12 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "We're going to clean up this park.",
+      "organizer": "Adam Jahr",
+      "category": "nature",
+      "attendees": [
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Pet Adoption Day",
+      "date": "Dec 2 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "Help animals find new homes.",
+      "organizer": "Gregg Pollack",
+      "category": "animal welfare",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 367344,
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "Working?",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 40104,
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "Nature Event ",
+      "description": "planting some trees ",
+      "location": "Here ",
+      "date": "2023-01-20T14:13:00.000Z",
+      "time": "11:00",
+      "attendees": []
+    },
+    {
+      "id": 664923,
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "Animal Welfare event ",
+      "description": "something important ",
+      "location": "Ney York",
+      "date": "2023-01-26T17:56:00.000Z",
+      "time": "16:00",
+      "attendees": []
+    },
+    {
+      "id": 432678,
+      "category": "sustainability",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "Sus event ",
+      "description": "sus description",
+      "location": "Sus new york",
+      "date": "2023-03-02T17:57:00.000Z",
+      "time": "11:00",
+      "attendees": []
+    },
+    {
+      "id": 343763,
+      "category": "food",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "Food drive ",
+      "description": "food event ",
+      "location": "Africa event ",
+      "date": "2023-04-13T16:57:00.000Z",
+      "time": "13:00",
+      "attendees": []
+    },
+    {
+      "id": 700614,
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "Education event ",
+      "description": "what education ",
+      "location": "the ghetto ",
+      "date": "2023-05-06T16:58:00.000Z",
+      "time": "11:00",
+      "attendees": []
+    },
+    {
+      "id": 258052,
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "Nature Run",
+      "description": "running in nature",
+      "location": "Forest",
+      "date": "2023-01-25T18:59:00.000Z",
+      "time": "6:00",
+      "attendees": []
+    },
+    {
+      "id": 908750,
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "Another nature walk",
+      "description": "walking in nature",
+      "location": "In nature",
+      "date": "2023-04-20T12:59:00.000Z",
+      "time": "17:00",
+      "attendees": []
+    },
+    {
+      "id": 317062,
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "Success popup",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 324949,
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "Success popup 2",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    }
+  ]
+}
